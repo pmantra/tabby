@@ -1,0 +1,25 @@
+.App {
+}
+
+.sidebar {
+  width: 30em;
+}
+.fp-panel-main {
+  width: 70em;
+}
+
+.search-bar {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: 40em;
+  margin-right: 3em;
+  width: 25em;
+}
+
+.app-container {
+  margin-top: 5em;
+}
+
+.line-item {
+  display: flex;
+}
